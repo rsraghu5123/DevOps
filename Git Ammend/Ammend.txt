@@ -1,2 +1,4 @@
 Hello There ,Git amend means …..commit msg ko edit krke remaining changes ko same commit msg ya msg rename krke push krna
-ssss
+ssss 
+
+git ammend`
